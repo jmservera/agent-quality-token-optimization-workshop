@@ -16,6 +16,20 @@
 
 ✅ **Checkpoint:** you received a reply and can switch between Ask/Plan/Agent.
 
+### 1.1 Verify you can see Agent Debug Logs
+
+After your first conversation, click `Show Agent Debug Logs` in the three-dot menu next to the gear icon in the upper-right corner:
+
+![Agent Debug Logs](../../assets/images/ubb_enable_agent_debug_01.png)
+
+You should see a window with the logs. Click the conversation title:
+
+![Agent Debug Conversation](../../assets/images/ubb_enable_agent_debug_02.png)
+
+Now you can see metrics such as turns, token usage, tool calls, etc.
+
+![Agent Debug Statistics](../../assets/images/ubb_enable_agent_debug_03.png)
+
 ---
 
 ## 2. Run the sample app
